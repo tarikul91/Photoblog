@@ -12,4 +12,5 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     function test(){}
     function test2(){}
+    function test3() {} // i add test3 method
 }
