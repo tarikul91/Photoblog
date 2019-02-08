@@ -1,5 +1,6 @@
 <?php
 
 return [
-	'photo'=>"uploads/photo/"
+	'photo'=>"uploads/photo/",
+	'captcha' => "uploads/captcha",
 ];

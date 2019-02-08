@@ -1,0 +1,4 @@
+origin	https://github.com/tarikul91/Photoblog.git (fetch)
+origin	https://github.com/tarikul91/Photoblog.git (push)
+repository	https://github.com/newphotoblog/blogs.git (fetch)
+repository	https://github.com/newphotoblog/blogs.git (push)
