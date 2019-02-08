@@ -80,8 +80,8 @@ class Photo extends Controller {
     	}
 		return back();
     }
-    function deleteGroup( $id ) {
-        dd( $id );
-    }
+    
+
+
 
 }
